@@ -20,7 +20,7 @@ npm install
 ```
 
 ## Configuration
-Créez un fichier nommé `.env` à la racine du projet et collez-y la configuration suivante pour que l'application fonctionne immédiatement :
+Créez un fichier nommé `.env` dans le dossier server (.env-keep en .env) du projet et collez-y la configuration suivante pour que l'application fonctionne immédiatement :
 
 ### Base de données
 - DB_CLIENT=mysql
